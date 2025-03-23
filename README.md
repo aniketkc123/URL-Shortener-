@@ -30,7 +30,7 @@ Ensure you have the following installed:
 
 ### 📥 Clone the Repository
 ```sh
-git clone https://github.com/aniketkc123/URL-Shortener.git
+git clone https://github.com/aniketkc123/URL-Shortener-.git
 
 
 ### 📦 Install Dependencies
