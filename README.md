@@ -14,12 +14,12 @@ A **simple and efficient** URL shortener built using **Node.js, MongoDB, and Rea
 ---
 
 ## 🛠 Tech Stack
-- 🎨 **Frontend:** React.js, Tailwind CSS
+- 🎨 **Frontend:** React.js
 - 🏗 **Backend:** Node.js, Express.js
 - 🗄 **Database:** MongoDB (Mongoose ODM)
-- 🔒 **Authentication (Optional):** JWT
 
----
+
+
 
 ## 🚀 Run it Locally
 
@@ -30,9 +30,8 @@ Ensure you have the following installed:
 
 ### 📥 Clone the Repository
 ```sh
-git clone https://github.com/yourusername/url-shortener.git
-cd url-shortener
-```
+git clone https://github.com/aniketkc123/URL-Shortener.git
+
 
 ### 📦 Install Dependencies
 For both frontend and backend:
